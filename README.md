@@ -7,6 +7,6 @@ the installation for this repo is simple: just clone it;
 
 Edit 1 --> 20-09-2018
 
-Edit 2
+Edit 2 --> 20-09-2018
 
 //©Jammy
